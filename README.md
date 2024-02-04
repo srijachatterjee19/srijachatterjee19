@@ -25,5 +25,4 @@ Computer Science Graduate living in London 🌆
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://cdn-images-1.medium.com/max/992/1*jVbktJTKWfDTPBxE3EpnHQ.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </p>
