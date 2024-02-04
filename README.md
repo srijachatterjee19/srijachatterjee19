@@ -2,12 +2,10 @@
 
 ### 👩🏽‍💻 &nbsp;About Me :
 
-Software Developer in London.
+Computer Science Graduate living in London 🌆
 
 - 🔭 I’m building frontend and backend for building web applications in React.
 - 🌱 Exploring different tech stacks.
-- ☕️ In my free time I solve problems on LeetCode.
-
 
 ### 🛠 &nbsp;Languages and Tools :
 
