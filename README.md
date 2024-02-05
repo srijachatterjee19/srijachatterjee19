@@ -4,7 +4,7 @@
 
 Computer Science Graduate living in London 🌆
 
-- 🔭 I’m building frontend and backend for building web applications in React.
+- 🔭 I’m currently involved in building web applications in React
 - 🌱 Exploring different tech stacks.
 
 ### 🛠 &nbsp;Languages and Tools :
