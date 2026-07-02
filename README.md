@@ -25,3 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Springboot" alt="Springboot" width="40" height="40"/>&nbsp;
 </p>
+
+<!-- GitHub Stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijachatterjee19&show_icons=true)
+
+<!-- Top Languages -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijachatterjee19&layout=compact)
