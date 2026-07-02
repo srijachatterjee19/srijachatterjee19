@@ -1,12 +1,9 @@
 ## Hi! I'm Srija 👋
 
-<a href="">
+<a href="https://www.linkedin.com/in/srija-chatterjee/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
-<a href="">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-<a href="">
+<a href="https://medium.com/@srijach">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
 
@@ -17,6 +14,7 @@
 💼 Previously worked as both a Frontend Developer and Backend Developer, building web applications and APIs across the stack.</br>
 💻 Working primarily with Javascript, Java, and SQL.</br>
 🌱 Always learning and experimenting with new technologies.</br>
+✉️ Reach me at <a href="mailto:srija.chatterjee@outlook.com">srija.chatterjee@outlook.com</a>.</br>
 
 ### 🛠 &nbsp;Languages and Tools :
 
